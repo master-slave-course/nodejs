@@ -1,0 +1,6 @@
+# Prisma DB connection strings
+# Change username/password/database as appropriate for your environment
+DATABASE_URL="mysql://user:password@127.0.0.1:3307/toko"
+DIRECT_DATABASE_URL="mysql://user:password@127.0.0.1:3307/toko"
+REPLICA_1="mysql://user:password@127.0.0.1:3308/toko"
+REPLICA_2="mysql://user:password@127.0.0.1:3309/toko"
