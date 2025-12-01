@@ -11,6 +11,9 @@ Prisma configuration is in `prisma/schema.prisma`. We store data in a database n
 
 Quick steps
 
+Copy .env.example to .env
+setup your user,password,port database
+
 1. Install dependencies
 
 ```powershell
